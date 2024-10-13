@@ -24,9 +24,11 @@ Be welcome to my GitHub profile! Here I share my projects and random ideas on **
    + 3.5 _Technologies_: Statistical modeling, forecasting models, econometric models, algebra, calculus, technical drawing, technical writing
 
 4. 📈 _Statistics_
+
+   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucashelal&show_icons=true&theme=dracula)
 
-5. 🌱 _Currently Learning_
+6. 🌱 _Currently Learning_
    
    + 5.1 Advanced methods for **urban infrastructure metrics**
    + 5.2 **Predictive models** for traffic and health indicators
