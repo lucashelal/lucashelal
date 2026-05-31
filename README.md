@@ -44,6 +44,8 @@ I'm an epidemiologist with over 14 years of experience in epidemiological survei
 - 🎓 **Lattes:** https://lattes.cnpq.br/5431648099471359
 - 🆔 **ORCID:** https://orcid.org/0000-0002-6900-7185
 - 📧 **Email:** lucashelal@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucashelal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ---
  
 *Data-driven and evidence-based solutions to complex problems.*
