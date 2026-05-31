@@ -45,7 +45,15 @@ I'm an epidemiologist with over 14 years of experience in epidemiological survei
 - 🆔 **ORCID:** https://orcid.org/0000-0002-6900-7185
 - 📧 **Email:** lucashelal@gmail.com
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucashelal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashelal&layout=compact&theme=tokyonight&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lucashelal&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
+</div>
 ---
  
 *Data-driven and evidence-based solutions to complex problems.*
